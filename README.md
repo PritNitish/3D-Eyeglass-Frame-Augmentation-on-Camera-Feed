@@ -3,4 +3,4 @@ This project demonstrates how to overlay a 3D glasses model on a live webcam fee
 ## Output
 ![demo](https://github.com/PritNitish/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed/blob/main/Media/Result.mp4)
 
-<iframe width="560" height="315" src="(https://github.com/PritNitish/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed/blob/main/Media/Result.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![]([my_video.mov](Media/Result.mp4))
