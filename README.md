@@ -1,6 +1,4 @@
 # 3D-Eyeglass-Frame-Augmentation-on-Camera-Feed
 This project demonstrates how to overlay a 3D glasses model on a live webcam feed using Python, OpenCV, and MediaPipe. The code captures a video stream from the webcam, detects facial landmarks, calculates the required rotation and position for the glasses, and overlays the glasses onto the detected face.
-<video width="640" height="480" controls>
-  <source src="https://github.com/PritNitish/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed/blob/main/Media/Result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+##Output
+https://github.com/PritNitish/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed/blob/main/Media/Result.mp4
